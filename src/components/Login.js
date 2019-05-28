@@ -77,8 +77,8 @@ class Login extends Component
                 </div>
                 <div className='row' style={{marginTop: 50}}>
                     <div className='col-12' style={{textAlign: 'center'}}>
-                       <p>Username: admin</p>
-                       <p>Password: 12345</p>
+                       <p>Username = admin</p>
+                       <p>Password = 12345</p>
                     </div>
                 </div>
             </div>
